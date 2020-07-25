@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.55ad8337.chunk.js",
-    "main.js.map": "/static/js/main.55ad8337.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.18399cad.js",
-    "runtime-main.js.map": "/static/js/runtime-main.18399cad.js.map",
-    "static/js/2.5e01c3c8.chunk.js": "/static/js/2.5e01c3c8.chunk.js",
-    "static/js/2.5e01c3c8.chunk.js.map": "/static/js/2.5e01c3c8.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9559bfaa46e252685983205c5874f4d1.js": "/precache-manifest.9559bfaa46e252685983205c5874f4d1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5e01c3c8.chunk.js.LICENSE.txt": "/static/js/2.5e01c3c8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/learning-github-actions-with/static/css/main.5f361e03.chunk.css",
+    "main.js": "/learning-github-actions-with/static/js/main.3ca730f2.chunk.js",
+    "main.js.map": "/learning-github-actions-with/static/js/main.3ca730f2.chunk.js.map",
+    "runtime-main.js": "/learning-github-actions-with/static/js/runtime-main.d2ff1c5b.js",
+    "runtime-main.js.map": "/learning-github-actions-with/static/js/runtime-main.d2ff1c5b.js.map",
+    "static/js/2.5e01c3c8.chunk.js": "/learning-github-actions-with/static/js/2.5e01c3c8.chunk.js",
+    "static/js/2.5e01c3c8.chunk.js.map": "/learning-github-actions-with/static/js/2.5e01c3c8.chunk.js.map",
+    "index.html": "/learning-github-actions-with/index.html",
+    "precache-manifest.aefb2874ff1f902e25c67d0606444d38.js": "/learning-github-actions-with/precache-manifest.aefb2874ff1f902e25c67d0606444d38.js",
+    "service-worker.js": "/learning-github-actions-with/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/learning-github-actions-with/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5e01c3c8.chunk.js.LICENSE.txt": "/learning-github-actions-with/static/js/2.5e01c3c8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/learning-github-actions-with/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.18399cad.js",
+    "static/js/runtime-main.d2ff1c5b.js",
     "static/js/2.5e01c3c8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.55ad8337.chunk.js"
+    "static/js/main.3ca730f2.chunk.js"
   ]
 }
